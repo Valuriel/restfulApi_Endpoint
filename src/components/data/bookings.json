@@ -1,0 +1,51 @@
+[
+    {
+        "email_id": "lee@marvel.com",
+        "dateOfCreation": "01-01-2021",
+        "venueName": "Hilton Hotel",
+        "people": "4",
+        "eventData": [
+                {
+                    "location": "Helsinki",
+                    "eventStart": "05-01-2021",
+                    "bookedBy": "Stan Lee"
+                }
+            ],
+        "eventDuration": "4 h",
+        "totalPrice": 720,
+        "country": "Finland"
+    },
+    {
+        "email_id": "vader@starwars.com",
+        "dateOfCreation": "06-06-2021",
+        "venueName": "force chamber",
+        "people": "2",
+        "eventData": [
+                {
+                    "location": "Star Destroyer",
+                    "eventStart": "08-08-2021",
+                    "bookedBy": "Darth Vader"
+                }
+                ],
+            "eventDuration": "6 h",
+            "totalPrice": 1000,
+            "country": "Far far away"
+        },
+        {
+            "email_id": "picard@enterprise.com",
+            "dateOfCreation": "30-11-2221",
+            "venueName": "USS Enterprise",
+            "people": "10",
+            "eventData": [
+                    {
+                        "location": "Crew Deck",
+                        "eventStart": "09-12-2221",
+                        "bookedBy": "Jean Luc Picard"
+                    }
+                ],
+            "eventDuration": "10 h",
+            "totalPrice": 2500,
+            "country": "Outer space"
+        }
+]
+

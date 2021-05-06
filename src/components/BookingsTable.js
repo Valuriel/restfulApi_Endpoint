@@ -24,11 +24,19 @@ export const BookingsTable = () => {
                   <td>Mark</td>
                   <td>Otto</td>
                   <td>@mdo</td>
+                  <td>@mdo</td>
+                  <td>@mdo</td>
+                  <td>@mdo</td>
+                  <td>@mdo</td>
                 </tr>
                 <tr>
                   <td>2</td>
                   <td>Jacob</td>
                   <td>Thornton</td>
+                  <td>@fat</td>
+                  <td>@fat</td>
+                  <td>@fat</td>
+                  <td>@fat</td>
                   <td>@fat</td>
                 </tr>
                 <tr>
@@ -45,6 +53,10 @@ export const BookingsTable = () => {
                   <td>4</td>
                   <td>Jacob</td>
                   <td>Thornton</td>
+                  <td>@fat</td>
+                  <td>@fat</td>
+                  <td>@fat</td>
+                  <td>@fat</td>
                   <td>@fat</td>
                 </tr>
                 

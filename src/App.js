@@ -1,15 +1,18 @@
 import React, {Component} from 'react';
-import BookingsTable from './components/BookingsTable';
+
+// import BookingsTable from './components/BookingsTable';
+import Bookings from './components/Bookings';
 
 class App extends Component {
   render() {
     return (
-      <div class="card">
-        <h1>Your bookings!</h1>
-            <BookingsTable />
+      <div>
+            <Bookings />
       </div>
     );
   }
+
+ 
 };
 
 export default App;

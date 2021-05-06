@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Bookings Creation</title>
+</head>
+<body>
+    <div class="container">
+        <hr>
+        <h1>Create a Booking</h1>
+        <hr>
+    
+        <form action="http://localhost:3000/booking" method="POST">
+            <div class="form-group">
+                <label for="Email">Email</label>
+                <input class="form-control" name="email_id">
+            </div>
+    
+            <div class="form-group">
+                <label for="Date">Date</label>
+                <input type="date" class="form-control" name="dateOfCreation">
+            </div>
+            
+            <div class="form-group">
+                <label for="VenueName">Venue Name</label>
+                <input class="form-control" name="venuName">
+            </div>
+
+            <div class="form-group">
+                <label for="People">People</label>
+                <input class="form-control" name="people">
+            </div>
+
+            <div class="form-group">
+                <label for="EventData">Event Data</label>
+                <input class="form-control" name="eventData">
+            </div>
+
+            <div class="form-group">
+                <label for="EventDuration">Event Duration</label>
+                <input class="form-control" name="eventDuration">
+            </div>
+
+            <div class="form-group">
+                <label for="TotalPrice">Total Price</label>
+                <input class="form-control" name="totalPrice">
+            </div>
+
+            <div class="form-group">
+                <label for="Country">Country</label>
+                <input class="form-control" name="country">
+            </div>
+    
+            
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+
+</body>
+</html>
