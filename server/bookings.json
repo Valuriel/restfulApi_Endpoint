@@ -2,7 +2,7 @@
         {
             "email_id": "lee@marvel.com",
             "dateOfCreation": "01-01-2021",
-            "venueName": "Gotham Hotel",
+            "venueName": "Comic Hotel",
             "people": "4",
             "eventData": "05-01-2021",   
             "eventDuration": "4 h",
@@ -10,13 +10,163 @@
             "country": "Finland"
         },
         {
+            "email_id": "lee@marvel.com",
+            "dateOfCreation": "15-02-2021",
+            "venueName": "Comic Hotel",
+            "people": "4",
+            "eventData": "29-02-2021",   
+            "eventDuration": "4 h",
+            "totalPrice": 120,
+            "country": "Finland"
+        },
+        {
+            "email_id": "lee@marvel.com",
+            "dateOfCreation": "01-01-2021",
+            "venueName": "Comic Hotel",
+            "people": "4",
+            "eventData": "05-01-2021",   
+            "eventDuration": "4 h",
+            "totalPrice": 720,
+            "country": "Finland"
+        },
+        {
+            "email_id": "lee@marvel.com",
+            "dateOfCreation": "07-07-2021",
+            "venueName": "Comic Hotel",
+            "people": "2",
+            "eventData": "08-08-2021",   
+            "eventDuration": "1 h",
+            "totalPrice": 120,
+            "country": "Finland"
+        },
+        {
+            "email_id": "lee@marvel.com",
+            "dateOfCreation": "20-01-2021",
+            "venueName": "Comic Hotel",
+            "people": "4",
+            "eventData": "22-01-2021",   
+            "eventDuration": "2 h",
+            "totalPrice": 220,
+            "country": "Finland"
+        },
+        {
+            "email_id": "lee@marvel.com",
+            "dateOfCreation": "01-01-2021",
+            "venueName": "Comic Hotel",
+            "people": "4",
+            "eventData": "05-01-2021",   
+            "eventDuration": "4 h",
+            "totalPrice": 720,
+            "country": "Finland"
+        },
+        {
+            "email_id": "lee@marvel.com",
+            "dateOfCreation": "06-04-2021",
+            "venueName": "Comic Hotel",
+            "people": "4",
+            "eventData": "25-04-2021",   
+            "eventDuration": "4 h",
+            "totalPrice": 720,
+            "country": "Finland"
+        },
+        {
+            "email_id": "lee@marvel.com",
+            "dateOfCreation": "01-01-2021",
+            "venueName": "Comic Hotel",
+            "people": "4",
+            "eventData": "05-01-2021",   
+            "eventDuration": "4 h",
+            "totalPrice": 720,
+            "country": "Finland"
+        },
+        {
+            "email_id": "lee@marvel.com",
+            "dateOfCreation": "05-06-2021",
+            "venueName": "Comic Hotel",
+            "people": "4",
+            "eventData": "05-07-2021",   
+            "eventDuration": "4 h",
+            "totalPrice": 520,
+            "country": "Poland"
+        },
+        {
+            "email_id": "lee@marvel.com",
+            "dateOfCreation": "02-02-2021",
+            "venueName": "Comic Hotel",
+            "people": "4",
+            "eventData": "05-01-2021",   
+            "eventDuration": "4 h",
+            "totalPrice": 620,
+            "country": "Germany"
+        },
+        {
+            "email_id": "lee@marvel.com",
+            "dateOfCreation": "05-02-2021",
+            "venueName": "Comic Hotel",
+            "people": "4",
+            "eventData": "06-01-2021",   
+            "eventDuration": "4 h",
+            "totalPrice": 820,
+            "country": "Finland"
+        },
+        {
             "email_id": "vader@starwars.com",
             "dateOfCreation": "06-06-2021",
-            "venueName": "force chamber",
+            "venueName": "Force Chamber",
             "people": "2",
             "eventData": "08-08-2021",
             "eventDuration": "6 h",
             "totalPrice": 1000,
+            "country": "Far far away"
+        },
+        {
+            "email_id": "vader@starwars.com",
+            "dateOfCreation": "05-06-2021",
+            "venueName": "Tatooine",
+            "people": "2",
+            "eventData": "07-07-2021",
+            "eventDuration": "1 h",
+            "totalPrice": 900,
+            "country": "Far far away"
+        },
+        {
+            "email_id": "vader@starwars.com",
+            "dateOfCreation": "14-06-2021",
+            "venueName": "Naarshadaa",
+            "people": "3",
+            "eventData": "16-09-2021",
+            "eventDuration": "2 h",
+            "totalPrice": 500,
+            "country": "Far far away"
+        },
+        {
+            "email_id": "vader@starwars.com",
+            "dateOfCreation": "04-03-2021",
+            "venueName": "force chamber",
+            "people": "6",
+            "eventData": "25-03-2021",
+            "eventDuration": "8 h",
+            "totalPrice": 2000,
+            "country": "Far far away"
+        },
+        {
+            "email_id": "vader@starwars.com",
+            "dateOfCreation": "30-10-2021",
+            "venueName": "force chamber",
+            "people": "2",
+            "eventData": "01-11-2021",
+            "eventDuration": "6 h",
+            "totalPrice": 1000,
+            "country": "Far far away"
+        },
+        {
+            "email_id": "vader@starwars.com",
+            "dateOfCreation": "11-11-2021",
+            "venueName": "Force Chamber",
+            "people": "4",
+            "eventData": "12-12-2021",
+            "eventDuration": "8 h",
+            "totalPrice": 1750,
             "country": "Far far away"
         },
         {
@@ -37,6 +187,6 @@
             "eventData": "26-12-2221",
             "eventDuration": "10 h",
             "totalPrice": 2500,
-            "country": "Outer space"
+            "country": "Lulu Land"
         }
 ]

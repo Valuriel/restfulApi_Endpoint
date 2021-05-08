@@ -3,6 +3,7 @@ import axios from "axios";
 
 import Table from 'react-bootstrap/Table';
 
+// importing the backend to the frontend
 const API = "http://localhost:3001/";
 
 
@@ -13,6 +14,7 @@ class Bookings extends Component {
       };
     
       componentDidMount() {
+        // calling the API
         axios.get(API).then((response) => {
           this.setState({bookings: response.data});
           console.log(response);
@@ -22,6 +24,7 @@ class Bookings extends Component {
         }
           
     render() {
+      // displaying the JSON data into the table
         const { bookings } = this.state;
         return (
 
@@ -48,8 +51,8 @@ class Bookings extends Component {
                     return (
                       
                         <tr key={booking}>
-                        <td>{bookings[booking].dateOfCreation}</td>
                         <td>{bookings[booking].email_id}</td>
+                        <td>{bookings[booking].dateOfCreation}</td>             
                         <td>{bookings[booking].venueName}</td>
                         <td>{bookings[booking].people}</td>
                         <td>{bookings[booking].eventData}</td>
