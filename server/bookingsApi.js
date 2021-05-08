@@ -1,5 +1,5 @@
 const express = require('express');
-// const bodyParser = require('body-parser');
+
 const cors = require('cors');
 
 const app = express();
@@ -10,7 +10,7 @@ let bookings = [];
 
 app.use(cors());
 
-// Configure body parser middleware
+// Configure middleware
 app.use(express.urlencoded({ extended: false}));
 app.use(express.json());
 

@@ -1,17 +1,10 @@
-{
-    "bookings": [
+[
         {
             "email_id": "lee@marvel.com",
             "dateOfCreation": "01-01-2021",
-            "venueName": "Hilton Hotel",
+            "venueName": "Gotham Hotel",
             "people": "4",
-            "eventData": [
-                    {
-                        "location": "Helsinki",
-                        "eventStart": "05-01-2021",
-                        "bookedBy": "Stan Lee"
-                    }
-                ],
+            "eventData": "05-01-2021",   
             "eventDuration": "4 h",
             "totalPrice": 720,
             "country": "Finland"
@@ -21,13 +14,7 @@
             "dateOfCreation": "06-06-2021",
             "venueName": "force chamber",
             "people": "2",
-            "eventData": [
-                    {
-                        "location": "Star Destroyer",
-                        "eventStart": "08-08-2021",
-                        "bookedBy": "Darth Vader"
-                    }
-                ],
+            "eventData": "08-08-2021",
             "eventDuration": "6 h",
             "totalPrice": 1000,
             "country": "Far far away"
@@ -37,16 +24,19 @@
             "dateOfCreation": "30-11-2221",
             "venueName": "USS Enterprise",
             "people": "10",
-            "eventData": [
-                    {
-                        "location": "Crew Deck",
-                        "eventStart": "09-12-2221",
-                        "bookedBy": "Jean Luc Picard"
-                    }
-                ],
+            "eventData": "09-12-2221",
+            "eventDuration": "10 h",
+            "totalPrice": 2500,
+            "country": "Outer space"
+        },
+        {
+            "email_id": "blabla@lala.com",
+            "dateOfCreation": "25-12-2021",
+            "venueName": "Candy Land",
+            "people": "10",
+            "eventData": "26-12-2221",
             "eventDuration": "10 h",
             "totalPrice": 2500,
             "country": "Outer space"
         }
-    ]
-}
+]
