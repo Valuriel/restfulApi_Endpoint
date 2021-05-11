@@ -16,10 +16,6 @@ npm install
 ```shell
 npm install
 ```
-3. Then navigate into the "server" directory and run:
-```shell
-npm install
-```
 4. Start the server by navigating into the "server" directory
 ```shell
 node bookingsServer.js
