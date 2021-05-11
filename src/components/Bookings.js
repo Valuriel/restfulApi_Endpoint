@@ -5,12 +5,11 @@ import Table from "react-bootstrap/Table";
 import { useState } from "react";
 
 export default function Bookings() {
-  const [bookings, setBookings] = useState([]); // Creates a websocket and manages messaging
+  const [bookings, setBookings] = useState([]); 
   const [page, setPage] = useState(1);
   const [limit, setLimit] = useState(5);
 
-  // console.log(datas[4].message)
-
+  // API call
   const getAll = () => {
     axios
       .get(`http://localhost:3001/`)
