@@ -1,8 +1,7 @@
 # Restulf API Endpoint - Booking List
+This app shows a bookings list for venues including rudimentary pagination.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-This app shows a bookings list for venues including rudimentary pagination.
 
 ## How to run this app
 
