@@ -13,13 +13,13 @@ let bookings = JSON.parse(bookingsData);
 
 app.use(cors());
 
-// get all bookings 
+
 app.get('/', (req, res) => {
     res.send(bookings);
     
 });
 
-// pagination
+// pagination setup
 app.get('/bookings', (req, res) => {
     const page = parseInt(req.query.page);
     const limit =  parseInt(req.query.limit);

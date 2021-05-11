@@ -188,5 +188,15 @@
             "eventDuration": "10 h",
             "totalPrice": 2500,
             "country": "Lulu Land"
+        },
+        {
+            "email_id": "blabla@lala.com",
+            "dateOfCreation": "25-12-2021",
+            "venueName": "Candy Land",
+            "people": "10",
+            "eventData": "26-12-2221",
+            "eventDuration": "10 h",
+            "totalPrice": 2500,
+            "country": "Lulu Land"
         }
 ]
